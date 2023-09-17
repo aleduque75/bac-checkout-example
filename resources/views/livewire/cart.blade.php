@@ -15,7 +15,7 @@
                             <div>
                                 <div class="flex justify-between text-base font-medium text-gray-900">
                                     <h3>
-                                        <a href="#">Boplsa de Viajem</a>
+                                        <a href="#">Bolsa de Viajem</a>
                                     </h3>
                                     <p class="ml-4">R$190.00</p>
                                 </div>
