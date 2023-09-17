@@ -15,9 +15,9 @@
                             <div>
                                 <div class="flex justify-between text-base font-medium text-gray-900">
                                     <h3>
-                                        <a href="#">Throwback Hip Bag</a>
+                                        <a href="#">Boplsa de Viajem</a>
                                     </h3>
-                                    <p class="ml-4">$90.00</p>
+                                    <p class="ml-4">R$190.00</p>
                                 </div>
                                 <p class="mt-1 text-sm text-gray-500">Salmon</p>
                             </div>
